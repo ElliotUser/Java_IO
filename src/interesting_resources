@@ -1,5 +1,4 @@
                             Интересные ресурсы.
-    Что бы не зависить от операционной системы нужно используйте File.separator, чтобы быть незави-
-симым от ОС:
+    Что бы не зависить от операционной системы нужно используйте File.separator:
 
 http://qaru.site/questions/19188/fileseparator-or-filepathseparator
